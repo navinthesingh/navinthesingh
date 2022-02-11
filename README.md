@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @navinthesingh
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Computer Science
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me navinthesingh@gmail.com
 
 <!---
 navinthesingh/navinthesingh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
